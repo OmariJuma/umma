@@ -1,0 +1,11 @@
+1. git init- initiated an empty git repo
+
+2. git status - to check for changes
+
+3. git commit -m "message" - commiting your changes
+
+4. git add file - adds file to git
+
+5. git add . - add all changes in all files
+
+6. git push
